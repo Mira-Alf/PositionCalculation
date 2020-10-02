@@ -1,0 +1,602 @@
+[
+ {
+   "transactionId": 931768730845,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 397
+ },
+ {
+   "transactionId": 711451585287,
+   "instrument": "HOG",
+   "transactionType": "S",
+   "quantity": 220
+ },
+ {
+   "transactionId": 352415270254,
+   "instrument": "TGT",
+   "transactionType": "B",
+   "quantity": 566
+ },
+ {
+   "transactionId": 500067857062,
+   "instrument": "TGT",
+   "transactionType": "S",
+   "quantity": 651
+ },
+ {
+   "transactionId": 25712489030,
+   "instrument": "INTC",
+   "transactionType": "S",
+   "quantity": 141
+ },
+ {
+   "transactionId": 720266376089,
+   "instrument": "GOOG",
+   "transactionType": "S",
+   "quantity": 361
+ },
+ {
+   "transactionId": 222573161214,
+   "instrument": "LUV",
+   "transactionType": "S",
+   "quantity": 429
+ },
+ {
+   "transactionId": 219041799926,
+   "instrument": "GOOG",
+   "transactionType": "S",
+   "quantity": 184
+ },
+ {
+   "transactionId": 762398255137,
+   "instrument": "AAPL",
+   "transactionType": "S",
+   "quantity": 254
+ },
+ {
+   "transactionId": 372328964253,
+   "instrument": "HPQ",
+   "transactionType": "S",
+   "quantity": 990
+ },
+ {
+   "transactionId": 555060046066,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 253
+ },
+ {
+   "transactionId": 424780945127,
+   "instrument": "WMT",
+   "transactionType": "S",
+   "quantity": 39
+ },
+ {
+   "transactionId": 334905116918,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 220
+ },
+ {
+   "transactionId": 395177886949,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 0
+ },
+ {
+   "transactionId": 918149528525,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 134
+ },
+ {
+   "transactionId": 756767065337,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 320
+ },
+ {
+   "transactionId": 521982243520,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 208
+ },
+ {
+   "transactionId": 365720779720,
+   "instrument": "WMT",
+   "transactionType": "S",
+   "quantity": 85
+ },
+ {
+   "transactionId": 996811639413,
+   "instrument": "MMM",
+   "transactionType": "S",
+   "quantity": 266
+ },
+ {
+   "transactionId": 854848904785,
+   "instrument": "AAPL",
+   "transactionType": "S",
+   "quantity": 21
+ },
+ {
+   "transactionId": 379690608857,
+   "instrument": "WMT",
+   "transactionType": "B",
+   "quantity": 402
+ },
+ {
+   "transactionId": 696862591433,
+   "instrument": "LUV",
+   "transactionType": "S",
+   "quantity": 97
+ },
+ {
+   "transactionId": 164170782070,
+   "instrument": "LUV",
+   "transactionType": "S",
+   "quantity": 903
+ },
+ {
+   "transactionId": 47662903497,
+   "instrument": "BRK",
+   "transactionType": "B",
+   "quantity": 231
+ },
+ {
+   "transactionId": 484670419061,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 260
+ },
+ {
+   "transactionId": 436022651433,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 626
+ },
+ {
+   "transactionId": 803430176098,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 16
+ },
+ {
+   "transactionId": 756889317894,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 556
+ },
+ {
+   "transactionId": 204029272386,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 858
+ },
+ {
+   "transactionId": 738927940939,
+   "instrument": "TXN",
+   "transactionType": "S",
+   "quantity": 750
+ },
+ {
+   "transactionId": 627758513236,
+   "instrument": "LUV",
+   "transactionType": "S",
+   "quantity": 236
+ },
+ {
+   "transactionId": 828880477516,
+   "instrument": "HOG",
+   "transactionType": "S",
+   "quantity": 13
+ },
+ {
+   "transactionId": 951870837090,
+   "instrument": "TGT",
+   "transactionType": "S",
+   "quantity": 40
+ },
+ {
+   "transactionId": 75831773940,
+   "instrument": "HOG",
+   "transactionType": "S",
+   "quantity": 473
+ },
+ {
+   "transactionId": 165637331612,
+   "instrument": "TGT",
+   "transactionType": "S",
+   "quantity": 20
+ },
+ {
+   "transactionId": 179488529689,
+   "instrument": "AAPL",
+   "transactionType": "B",
+   "quantity": 986
+ },
+ {
+   "transactionId": 251194390785,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 993
+ },
+ {
+   "transactionId": 913713594392,
+   "instrument": "WMT",
+   "transactionType": "B",
+   "quantity": 396
+ },
+ {
+   "transactionId": 694802930911,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 511
+ },
+ {
+   "transactionId": 390923273836,
+   "instrument": "MMM",
+   "transactionType": "S",
+   "quantity": 700
+ },
+ {
+   "transactionId": 587383572833,
+   "instrument": "WMT",
+   "transactionType": "S",
+   "quantity": 200
+ },
+ {
+   "transactionId": 236164694,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 692
+ },
+ {
+   "transactionId": 699309441114,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 424
+ },
+ {
+   "transactionId": 68197558695,
+   "instrument": "GOOG",
+   "transactionType": "B",
+   "quantity": 272
+ },
+ {
+   "transactionId": 149366122393,
+   "instrument": "GOOG",
+   "transactionType": "S",
+   "quantity": 992
+ },
+ {
+   "transactionId": 544819431235,
+   "instrument": "HOG",
+   "transactionType": "S",
+   "quantity": 277
+ },
+ {
+   "transactionId": 484549476595,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 387
+ },
+ {
+   "transactionId": 235533020319,
+   "instrument": "LUV",
+   "transactionType": "S",
+   "quantity": 287
+ },
+ {
+   "transactionId": 364497891134,
+   "instrument": "HPQ",
+   "transactionType": "S",
+   "quantity": 36
+ },
+ {
+   "transactionId": 323164905768,
+   "instrument": "TGT",
+   "transactionType": "B",
+   "quantity": 307
+ },
+ {
+   "transactionId": 751481556430,
+   "instrument": "TGT",
+   "transactionType": "S",
+   "quantity": 545
+ },
+ {
+   "transactionId": 267349594961,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 881
+ },
+ {
+   "transactionId": 578274871881,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 488
+ },
+ {
+   "transactionId": 661757049072,
+   "instrument": "TGT",
+   "transactionType": "B",
+   "quantity": 949
+ },
+ {
+   "transactionId": 324230351620,
+   "instrument": "BRK",
+   "transactionType": "B",
+   "quantity": 723
+ },
+ {
+   "transactionId": 781331261423,
+   "instrument": "HPQ",
+   "transactionType": "S",
+   "quantity": 474
+ },
+ {
+   "transactionId": 917629083567,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 402
+ },
+ {
+   "transactionId": 740949748011,
+   "instrument": "TXN",
+   "transactionType": "S",
+   "quantity": 375
+ },
+ {
+   "transactionId": 913922852031,
+   "instrument": "MMM",
+   "transactionType": "S",
+   "quantity": 204
+ },
+ {
+   "transactionId": 22651270831,
+   "instrument": "TXN",
+   "transactionType": "S",
+   "quantity": 885
+ },
+ {
+   "transactionId": 167073582075,
+   "instrument": "HOG",
+   "transactionType": "B",
+   "quantity": 936
+ },
+ {
+   "transactionId": 607054803524,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 171
+ },
+ {
+   "transactionId": 510782892020,
+   "instrument": "GOOG",
+   "transactionType": "S",
+   "quantity": 948
+ },
+ {
+   "transactionId": 219453925715,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 96
+ },
+ {
+   "transactionId": 875104701741,
+   "instrument": "BRK",
+   "transactionType": "S",
+   "quantity": 823
+ },
+ {
+   "transactionId": 45080115695,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 470
+ },
+ {
+   "transactionId": 969633704807,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 840
+ },
+ {
+   "transactionId": 458074572115,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 961
+ },
+ {
+   "transactionId": 179310808005,
+   "instrument": "TXN",
+   "transactionType": "S",
+   "quantity": 792
+ },
+ {
+   "transactionId": 256548522356,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 332
+ },
+ {
+   "transactionId": 495870391745,
+   "instrument": "AAPL",
+   "transactionType": "S",
+   "quantity": 728
+ },
+ {
+   "transactionId": 319046923147,
+   "instrument": "HPQ",
+   "transactionType": "S",
+   "quantity": 663
+ },
+ {
+   "transactionId": 729357155312,
+   "instrument": "GOOG",
+   "transactionType": "B",
+   "quantity": 929
+ },
+ {
+   "transactionId": 431461587568,
+   "instrument": "MMM",
+   "transactionType": "B",
+   "quantity": 77
+ },
+ {
+   "transactionId": 819159237091,
+   "instrument": "TGT",
+   "transactionType": "S",
+   "quantity": 387
+ },
+ {
+   "transactionId": 795058910413,
+   "instrument": "MSFT",
+   "transactionType": "S",
+   "quantity": 452
+ },
+ {
+   "transactionId": 746766390295,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 494
+ },
+ {
+   "transactionId": 308264914021,
+   "instrument": "MMM",
+   "transactionType": "S",
+   "quantity": 37
+ },
+ {
+   "transactionId": 191664436622,
+   "instrument": "MSFT",
+   "transactionType": "B",
+   "quantity": 220
+ },
+ {
+   "transactionId": 877622676833,
+   "instrument": "INTC",
+   "transactionType": "B",
+   "quantity": 105
+ },
+ {
+   "transactionId": 166772734303,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 458
+ },
+ {
+   "transactionId": 577471942933,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 183
+ },
+ {
+   "transactionId": 858409000216,
+   "instrument": "WMT",
+   "transactionType": "S",
+   "quantity": 271
+ },
+ {
+   "transactionId": 525667779017,
+   "instrument": "INTC",
+   "transactionType": "S",
+   "quantity": 225
+ },
+ {
+   "transactionId": 786709343891,
+   "instrument": "AAPL",
+   "transactionType": "B",
+   "quantity": 984
+ },
+ {
+   "transactionId": 196136243852,
+   "instrument": "INTC",
+   "transactionType": "S",
+   "quantity": 190
+ },
+ {
+   "transactionId": 888879919365,
+   "instrument": "MMM",
+   "transactionType": "S",
+   "quantity": 306
+ },
+ {
+   "transactionId": 459895487429,
+   "instrument": "WMT",
+   "transactionType": "B",
+   "quantity": 971
+ },
+ {
+   "transactionId": 620953654037,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 550
+ },
+ {
+   "transactionId": 728329351600,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 532
+ },
+ {
+   "transactionId": 407422756025,
+   "instrument": "HPQ",
+   "transactionType": "B",
+   "quantity": 41
+ },
+ {
+   "transactionId": 82410960272,
+   "instrument": "HPQ",
+   "transactionType": "S",
+   "quantity": 918
+ },
+ {
+   "transactionId": 755440675329,
+   "instrument": "BRK",
+   "transactionType": "S",
+   "quantity": 743
+ },
+ {
+   "transactionId": 270593832659,
+   "instrument": "TGT",
+   "transactionType": "B",
+   "quantity": 971
+ },
+ {
+   "transactionId": 422901549829,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 367
+ },
+ {
+   "transactionId": 948197915268,
+   "instrument": "TXN",
+   "transactionType": "S",
+   "quantity": 145
+ },
+ {
+   "transactionId": 757395016402,
+   "instrument": "TGT",
+   "transactionType": "B",
+   "quantity": 197
+ },
+ {
+   "transactionId": 150883891253,
+   "instrument": "TXN",
+   "transactionType": "B",
+   "quantity": 334
+ },
+ {
+   "transactionId": 910388542768,
+   "instrument": "LUV",
+   "transactionType": "B",
+   "quantity": 629
+ },
+ {
+   "transactionId": 624994870272,
+   "instrument": "AAPL",
+   "transactionType": "B",
+   "quantity": 984
+ }
+]
