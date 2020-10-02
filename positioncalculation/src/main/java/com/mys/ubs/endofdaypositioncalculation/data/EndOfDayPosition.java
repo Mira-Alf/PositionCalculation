@@ -1,5 +1,8 @@
 package com.mys.ubs.endofdaypositioncalculation.data;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 public class EndOfDayPosition {
 	
 	@Override
@@ -43,6 +46,16 @@ public class EndOfDayPosition {
 	public void updateEndOfDayPosition(Transaction transaction) {
 		this.quantity = position.getAccount().calculateUpdatedQuantity(transaction, quantity);
 		updateDeltaQuantity();
+	}
+	
+	public String getCSVLine() {
+		String[] items = { position.getInstrument().getStockSymbol(), 
+				position.getAccount().getAccountNumber(),
+				position.getAccount().getType().name(),
+				String.valueOf(quantity),
+				String.valueOf(deltaQuantity)
+		};
+		return Arrays.stream(items).collect(Collectors.joining(","));
 	}
 	
 	

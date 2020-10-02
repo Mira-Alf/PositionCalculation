@@ -3,7 +3,7 @@ package com.mys.ubs.endofdaypositioncalculation.data;
 public class ExternalAccount extends Account {
 
 	public ExternalAccount(String accountNumber) {
-		super(accountNumber, AccountType.I);
+		super(accountNumber, AccountType.E);
 	}
 
 	@Override
